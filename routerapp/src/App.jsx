@@ -12,7 +12,7 @@ function App() {
   return (
     <div className="App">
       <header>
-      <h1>Myapp rout App</h1>
+      <h1>Myapp router App</h1>
       <Layout />
       </header>
       <Routes>
