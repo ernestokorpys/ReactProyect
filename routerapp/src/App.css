@@ -1,0 +1,11 @@
+.App{
+}
+header{
+  display: flex;
+  justify-content: center ; /* Centrar horizontalmente */
+  background-color: rgb(235, 126, 126);
+}
+
+ul li {
+  display: block; /* Elimina el punto que saldria delante del li de la lista y los pone en linea */
+}
